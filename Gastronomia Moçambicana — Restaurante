@@ -1,0 +1,228 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://W2T5E3Valx0UtIj:vNHEJsBcYgPIyJ0@localhost:49397/storage/emulated/0/Documents/damusson.css/index.html
+Subject: =?utf-8?Q?Gastronomia=20Mo=C3=A7ambicana=20=E2=80=94=20Restaurante?=
+Date: Thu, 23 Oct 2025 07:38:28 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--id7VVec56ktcWeeXoyArCAjPDkEkEeHxdjuKFr6Paz----"
+
+
+------MultipartBoundary--id7VVec56ktcWeeXoyArCAjPDkEkEeHxdjuKFr6Paz----
+Content-Type: text/html
+Content-ID: <frame-0E7DE49A07B0FAE02B51959A44514374@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://W2T5E3Valx0UtIj:vNHEJsBcYgPIyJ0@localhost:49397/storage/emulated/0/Documents/damusson.css/index.html
+
+<!DOCTYPE html><html lang="pt-BR"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-8deca4e4-26cd-481a-9184-f65fb419378b@mhtml.blink" />
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Gastronomia Moçambicana — Restaurante</title>
+  
+</head>
+<body>
+  <header>
+    <div class="container">
+      <nav>
+        <div class="logo">Gastronomia Moçambicana</div>
+        <div style="flex:1"></div>
+        <div class="navlinks">
+          <a href="http://W2T5E3Valx0UtIj:vNHEJsBcYgPIyJ0@localhost:49397/storage/emulated/0/Documents/damusson.css/index.html#" data-link="home">Início</a>
+          <a href="http://W2T5E3Valx0UtIj:vNHEJsBcYgPIyJ0@localhost:49397/storage/emulated/0/Documents/damusson.css/index.html#" data-link="menu">Menu</a>
+          <a href="http://W2T5E3Valx0UtIj:vNHEJsBcYgPIyJ0@localhost:49397/storage/emulated/0/Documents/damusson.css/index.html#" data-link="about">Sobre</a>
+          <a href="http://W2T5E3Valx0UtIj:vNHEJsBcYgPIyJ0@localhost:49397/storage/emulated/0/Documents/damusson.css/index.html#" data-link="reservas">Reservas</a>
+        </div>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Home -->
+    <section id="home" class="active">
+      <div class="hero">
+        <div>
+          <h1>Sabores autênticos de Moçambique</h1>
+          <p class="muted">Bem-vindo ao restaurante fictício <strong>Gastronomia Moçambicana</strong>. Aqui celebramos ingredientes locais e receitas tradicionais com um toque moderno.</p>
+
+          <div style="margin-top:14px">
+            <a class="btn" data-action="go" data-target="reservas">Fazer reserva</a>
+            <a style="margin-left:8px;text-decoration:none;padding:10px 14px;border-radius:8px;border:1px solid #ddd;color:#333" data-action="go" data-target="menu">Ver Menu</a>
+          </div>
+        </div>
+
+        <div>
+          <div class="card">
+            <h3>Horário</h3>
+            <p class="small">Seg — Dom: 11:00 — 22:00</p>
+            <h3 style="margin-top:12px">Localização</h3>
+            <p class="small">Av. Principal, Monapo — Maputo (fictício)</p>
+            <h3 style="margin-top:12px">Contacto</h3>
+            <p class="small">Telefone: +258 8XX XXX XXX</p>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:22px" class="card">
+        <h3>O nosso conceito</h3>
+        <p>Combinamos técnicas contemporâneas com sabores tradicionais moçambicanos — mariscos, piri-piri, coco e especiarias. Este é um projeto pedagógico para praticar desenvolvimento web: mostraremos páginas interligadas, um menu, história do restaurante e um sistema simples de reservas (local).</p>
+      </div>
+    </section>
+
+    <!-- Menu -->
+    <section id="menu">
+      <h2>Menu principal</h2>
+      <p class="muted">Pratos típicos e fictícios com preços demonstrativos.</p>
+      <div class="menu-grid" style="margin-top:12px">
+        <div class="dish card">
+          <h4>Caril de Camarão</h4>
+          <p class="small">Camarões cozidos num molho cremoso de coco e piri-piri.</p>
+          <p><strong>Preço:</strong> 750 MZN</p>
+        </div>
+        <div class="dish card">
+          <h4>Matapa Especial</h4>
+          <p class="small">Folhas de mandioca com amendoim e marisco.</p>
+          <p><strong>Preço:</strong> 420 MZN</p>
+        </div>
+        <div class="dish card">
+          <h4>Piri-Piri Frango</h4>
+          <p class="small">Frango grelhado com molho piri-piri caseiro.</p>
+          <p><strong>Preço:</strong> 600 MZN</p>
+        </div>
+        <div class="dish card">
+          <h4>Arroz de Mariscos</h4>
+          <p class="small">Arroz cremoso com mistura de frutos do mar.</p>
+          <p><strong>Preço:</strong> 880 MZN</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section id="about">
+      <h2>Sobre o restaurante</h2>
+      <p class="muted">História e missão (fictícias) — ideal para o trabalho da disciplina TIC.</p>
+      <div class="card" style="margin-top:12px">
+        <h3>História</h3>
+        <p>O restaurante <strong>Gastronomia Moçambicana</strong> nasceu como um projeto para valorizar receitas locais e treinar jovens cozinheiros. A proposta é usar ingredientes moçambicanos e promover sustentabilidade.</p>
+        <h3 style="margin-top:12px">Missão</h3>
+        <p>Proporcionar experiências gastronômicas autênticas, apoiar produtores locais e educar a comunidade sobre a rica culinária moçambicana.</p>
+      </div>
+    </section>
+
+    <!-- Reservas -->
+    <section id="reservas">
+      <h2>Fazer Reserva</h2>
+      <p class="muted">Preencha o formulário abaixo. As reservas são guardadas localmente no seu navegador (exemplo funcional sem servidor).</p>
+
+      <div class="card" style="margin-top:12px">
+        <form id="reservaForm">
+          <label for="nome">Nome completo</label>
+          <input id="nome" name="nome" required="">
+
+          <label for="data">Data</label>
+          <input id="data" name="data" type="date" required="">
+
+          <label for="hora">Hora</label>
+          <input id="hora" name="hora" type="time" required="">
+
+          <label for="pessoas">Número de pessoas</label>
+          <select id="pessoas" name="pessoas">
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5+</option>
+          </select>
+
+          <label for="observacoes">Observações (opcional)</label>
+          <textarea id="observacoes" name="observacoes" rows="3"></textarea>
+
+          <div style="margin-top:12px">
+            <button class="btn" type="submit">Enviar reserva</button>
+            <button type="button" style="margin-left:8px;padding:10px;border-radius:8px" id="verReservas">Ver reservas</button>
+          </div>
+        </form>
+
+        <div id="reservaMsg" style="margin-top:12px"></div>
+        <div id="listaReservas" style="margin-top:12px"></div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <div class="container">
+      <div style="display:flex;justify-content:space-between;gap:12px;align-items:center;flex-wrap:wrap">
+        <div>
+          <strong>Gastronomia Moçambicana</strong>
+          <div class="small">Projeto de TIC — Exemplo de site para entrega no GitHub Pages</div>
+        </div>
+        <div class="small">© 2025 — Escola Secundária de Monapo</div>
+      </div>
+    </div>
+  </footer>
+
+  
+
+
+
+
+</body></html>
+------MultipartBoundary--id7VVec56ktcWeeXoyArCAjPDkEkEeHxdjuKFr6Paz----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-8deca4e4-26cd-481a-9184-f65fb419378b@mhtml.blink
+
+@charset "utf-8";
+
+:root { --accent: #b7410e; --muted: #666; }
+
+* { box-sizing: border-box; }
+
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height: 1.5; margin: 0px; color: rgb(34, 34, 34); }
+
+header { background: linear-gradient(90deg,var(--accent),#d97706); color: rgb(255, 255, 255); padding: 28px 18px; }
+
+.container { max-width: 980px; margin: 0px auto; padding: 18px; }
+
+nav { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+
+.logo { font-weight: 700; font-size: 1.2rem; }
+
+.navlinks a { color: rgba(255, 255, 255, 0.95); text-decoration: none; padding: 8px; border-radius: 8px; }
+
+.navlinks a:hover { background: rgba(0, 0, 0, 0.08); }
+
+main { padding: 28px 0px; }
+
+.hero { display: grid; grid-template-columns: 1fr; gap: 18px; align-items: center; }
+
+.hero h1 { margin: 0px 0px 8px; font-size: 2rem; }
+
+.muted { color: var(--muted); }
+
+.card { background: rgb(255, 255, 255); border-radius: 10px; padding: 18px; box-shadow: rgba(0, 0, 0, 0.06) 0px 6px 18px; }
+
+.menu-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+
+.dish { padding: 12px; border-radius: 8px; border: 1px solid rgb(238, 238, 238); }
+
+.dish h4 { margin: 0px 0px 6px; }
+
+footer { padding: 18px; background: rgb(247, 247, 247); color: rgb(51, 51, 51); margin-top: 28px; }
+
+.btn { display: inline-block; padding: 10px 16px; border-radius: 8px; text-decoration: none; background: var(--accent); color: rgb(255, 255, 255); }
+
+section { display: none; }
+
+section.active { display: block; }
+
+form label { display: block; margin: 10px 0px 6px; font-weight: 600; }
+
+input, select, textarea { width: 100%; padding: 10px; border-radius: 8px; border: 1px solid rgb(221, 221, 221); }
+
+.small { font-size: 0.9rem; color: var(--muted); }
+
+@media (min-width: 720px) {
+  .hero { grid-template-columns: 1fr 360px; }
+}
+------MultipartBoundary--id7VVec56ktcWeeXoyArCAjPDkEkEeHxdjuKFr6Paz------
